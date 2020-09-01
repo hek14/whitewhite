@@ -718,3 +718,4 @@
 ||emacs-china.org
 ||zfrontier.com
 ||tsinghua.edu.cn
+||huya.com
